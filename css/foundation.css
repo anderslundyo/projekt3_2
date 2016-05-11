@@ -1464,12 +1464,12 @@ kbd {
   padding: 0.85em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  background-color: #2199e8;
+  background-color: #b81d23;
   color: #fefefe; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
-    background-color: #1583cc;
+    background-color: #5B70A5;
     color: #fefefe; }
   .button.tiny {
     font-size: 0.6rem; }
@@ -1513,13 +1513,13 @@ kbd {
       background-color: #da3116;
       color: #fefefe; }
   .button.hollow {
-    border: 1px solid #2199e8;
-    color: #2199e8; }
+    border: 1px solid #b81d23;
+    color: #ffffff; }
     .button.hollow, .button.hollow:hover, .button.hollow:focus {
       background-color: transparent; }
     .button.hollow:hover, .button.hollow:focus {
-      border-color: #0c4d78;
-      color: #0c4d78; }
+      border-color: #b81d23;
+      color: #b81d23; }
     .button.hollow.primary {
       border: 1px solid #2199e8;
       color: #2199e8; }

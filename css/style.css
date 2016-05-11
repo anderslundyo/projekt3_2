@@ -1,9 +1,15 @@
+#testsection {
+  background-image: url("img/vand.jpg");
+}
+
+/* --- FOOTER -- */
+
 .full-width {
   max-width: 1400px;
 }
 
 .footer {
-  background-color: #2980b9;
+  background-color: #343434;
   padding: 2rem 4rem;
   text-align: center;
   color: #fff;
@@ -37,4 +43,18 @@
 }
 .footer-links li {
   margin-top: .5em;
+}
+
+
+.footer img {
+  max-width: 12%;
+  padding-right: 5px;
+}
+
+#knaptekst {
+  padding: 
+}
+
+.droptekst {
+  color: #b81d23;
 }
