@@ -1,5 +1,38 @@
+/* Video øverst */
+#logo {
+  position: absolute;
+}
+
+#block {
+  width: 100%;
+  height: 450px;
+}
+
+/* Sectioner i midten */
+
+.broedtekst {
+  width: 80%;
+  text-align: center;
+  padding-left: 15%;
+}
+
+.roed {
+  background-color: #b81d23;
+  color: #ffffff;
+}
+
+.blaa {
+  background-color: #3b589e;
+  color: #ffffff;
+}
+
+.sectionh1 {
+  text-align: center;
+}
+
 #testsection {
-  background-image: url("img/vand.jpg");
+  background-image: url("../img/vand.jpg");
+  color:#ffffff;
 }
 
 /* --- FOOTER -- */
