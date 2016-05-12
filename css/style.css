@@ -1,6 +1,14 @@
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/BebasNeue.otf");
+}
+
 /* Video øverst */
 #logo {
   position: absolute;
+  max-height: 13%;
+  max-width: 13%;
+  padding: 1.5% 0 0 2%;
 }
 
 #block {
@@ -11,28 +19,33 @@
 /* Sectioner i midten */
 
 .broedtekst {
+  font-family: 'Open Sans', sans-serif;
   width: 80%;
   text-align: center;
   padding-left: 15%;
 }
 
 .roed {
-  background-color: #b81d23;
+  background-color: #E50914;
   color: #ffffff;
+  height: 450px;
 }
 
 .blaa {
   background-color: #3b589e;
   color: #ffffff;
+  height: 450px;
 }
 
 .sectionh1 {
   text-align: center;
+  font-family: "Bebas Neue";
 }
 
 #testsection {
   background-image: url("../img/vand.jpg");
   color:#ffffff;
+  height: 450px;
 }
 
 /* --- FOOTER -- */
