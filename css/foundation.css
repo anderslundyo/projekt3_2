@@ -3163,8 +3163,7 @@ table.hover tr:nth-of-type(even):hover {
 .tabs {
   margin: 0;
   list-style-type: none;
-  background: #fefefe;
-  border: 1px solid #e6e6e6; }
+  background: #3b589e; }
   .tabs::before, .tabs::after {
     content: ' ';
     display: table; }
